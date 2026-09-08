@@ -7,31 +7,6 @@ chats, typing indicators, online/offline presence, delivery & read receipts,
 file/image sharing, and live notifications — built with React, Node.js,
 Express, PostgreSQL, Socket.IO, and Redis.
 
-> The name is always written lowercase: `sidosips`.
-
----
-
-## Table of contents
-
-1. [Features](#features)
-2. [Tech stack](#tech-stack)
-3. [Architecture](#architecture)
-4. [Folder structure](#folder-structure)
-5. [Prerequisites](#prerequisites)
-6. [PostgreSQL setup](#postgresql-setup)
-7. [Redis setup](#redis-setup)
-8. [Environment variables](#environment-variables)
-9. [Installation & running](#installation--running)
-10. [Sample login credentials](#sample-login-credentials)
-11. [Testing the API with Postman](#testing-the-api-with-postman)
-12. [How Socket.IO works here](#how-socketio-works-here)
-13. [How Redis is used](#how-redis-is-used)
-14. [How file uploads work](#how-file-uploads-work)
-15. [How authentication works](#how-authentication-works)
-16. [Running backend tests](#running-backend-tests)
-17. [Known simplifications](#known-simplifications)
-18. [Future improvements](#future-improvements)
-19. [Screenshots](#screenshots)
 
 ---
 
