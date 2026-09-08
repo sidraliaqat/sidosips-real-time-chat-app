@@ -355,11 +355,6 @@ layer to PostgreSQL and actually works end-to-end.
 - Automated end-to-end tests (Playwright/Cypress) alongside the existing validator unit tests
 - Dockerfile/docker-compose for one-command local setup
 
-## Screenshots
-
-_Add screenshots of the splash screen, login, chat dashboard, and mobile view here._
-
 ---
-
 Built with 💜 using the sidosips palette: English Violet `#4A3267`,
 Blush `#DE638A`, Pink `#F7B9C4`, Mimi Pink `#F3D9E5`, Thistle `#C6BADE`.
